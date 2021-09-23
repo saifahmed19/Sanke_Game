@@ -8,10 +8,15 @@ A snake game is an arcade maze game which has been developed by Gremlin Indust
 
 # Objectives
 
-<li>
-  The snake in the Snake game is controlled using the four direction buttons relative to the direction it is headed in.
-</li>
-
+<li>The snake in the Snake game is controlled using the four direction buttons relative to the direction it is headed in.</li>
 <li>The player’s objective in the game is to achieve maximum points as possible by collecting food or fruits.</li>
 <li>The player loses once the snake hits the wall or hits itself.</li>
 
+# Problem definition
+
+created a Python-based-game using the following modules: 
+
+<li><em>Turtle:</em> It is a pre-installed python library that enables users to create shapes and pictures by providing them a virtual canvas. </li>
+<li><em>Time:</em> This function is used to count the number of seconds elapsed since the epoch. </li>
+<li><em>Random:</em> This function is used to generate random numbers in Python by using random module. </li>
+<li><em>Pygame:</em> This function is used to generate graphics. </li>
