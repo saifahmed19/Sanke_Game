@@ -29,5 +29,5 @@ created a Python-based-game using the following modules: 
 
 <li>To move the snake, use 'up arrow' for up, 'down arrow' for down, 'left arrow for left and right arrow' for right.</li>
 <li>Again, there are constants you can change if you want to alter these settings. Press 'ESC' to exit the game at any time.</li>
-<li>The aim of the game is to collect the dots (food) and avoid the obstacles (crosses, borders, and the snake itself). As you collect food, the snake gets longer, so increasing your likelihood of crashing into yourself.
+<li>The aim of the game is to collect the dots (food) and avoid the obstacles (crosses, borders, and the snake itself). As you collect food, the snake gets longer, so increasing      your likelihood of crashing into yourself.
 </li
