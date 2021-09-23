@@ -20,3 +20,13 @@ created a Python-based-game using the following modules: 
 <li><em>Time:</em> This function is used to count the number of seconds elapsed since the epoch. </li>
 <li><em>Random:</em> This function is used to generate random numbers in Python by using random module. </li>
 <li><em>Pygame:</em> This function is used to generate graphics. </li>
+
+# Flowchart of Snake Game
+
+![image](https://user-images.githubusercontent.com/42868166/134525315-392482db-d8a8-41ad-b86d-51db61c2f8f2.png)
+<br>
+<br>
+
+<li>To move the snake, use 'up arrow' for up, 'down arrow' for down, 'left arrow for left and right arrow' for right.</li>
+<li>Again, there are constants you can change if you want to alter these settings. Press 'ESC' to exit the game at any time.</li>
+<li>The aim of the game is to collect the dots (food) and avoid the obstacles (crosses, borders, and the snake itself). As you collect food, the snake gets longer, so increasing your likelihood of crashing into yourself.</li
