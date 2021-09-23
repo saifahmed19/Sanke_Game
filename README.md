@@ -32,7 +32,7 @@ created a Python-based-game using the following modules: 
 -  The aim of the game is to collect the dots (food) and avoid the obstacles (crosses, borders, and the snake itself). As you collect food, the snake gets longer, so increasing your likelihood of crashing into yourself.
 
 
-## PROJECT SCOPE :
+## PROJECT SCOPE
 Our project will be able to implement in future after making some changes and modifications as we make our project at a very low level. So the modifications that can be done in our project are:
 
 - It will bring back the old classic game memories and will not harm children as much as games are harming these days such as PubG it is not a addictive game.
@@ -57,6 +57,8 @@ Changed From <b>Turtle</b> Module to <b>Pygame</b> module this Time Which increa
 * Color
 * New Texture
 * New Food-Apple
+* Sound ![image](https://user-images.githubusercontent.com/42868166/134528479-a577a2b2-f0cc-4f95-8135-e4c14c3e8880.png)
+
 <br>
 
 ![AAAA](https://user-images.githubusercontent.com/77485368/127916690-f983791c-7ebf-4e65-8034-b6554ef66a56.gif)
