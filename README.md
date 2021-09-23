@@ -44,27 +44,28 @@ Our project will be able to implement in future after making some changes and mo
 - We can add some study tricks and quiz so kids can learn with game too.
 
 
-## Gameplay V0.1
+## Gameplay
 <a href="url"><img src=https://user-images.githubusercontent.com/77485368/127916381-40e14eaf-5a23-415c-849c-3294a3087e03.gif height="400" width="500" ></a>
 
 
 
 
-## NEW Improvements!! V0.2
-Changed From Turtle Module to Pygame module this Time Which increased the Game basic graphics. Added Multiple New Graphics Such as Snake,s.
+## NEW UPDATE!!
+
+Changed From <b>Turtle</b> Module to <b>Pygame</b> module this Time Which increased the Game basic graphics. Added Multiple New Graphics Such as Snake,s.
 * Body 
 * Color
 * New Texture
 * New Food-Apple
 <br>
 
-![AAAAAAA](https://user-images.githubusercontent.com/77485368/127916690-f983791c-7ebf-4e65-8034-b6554ef66a56.gif)
+![AAAA](https://user-images.githubusercontent.com/77485368/127916690-f983791c-7ebf-4e65-8034-b6554ef66a56.gif)
 
-## Gamplay Improvement V1.0
+## Gamplay 
 This time we have added score board And background Textures in it which Makes it more Attractive.
 <br>
 
 
-![BBBBBBBB](https://user-images.githubusercontent.com/77485368/127916729-8186eedd-7c11-458a-b7de-8a8b59d8d5b8.gif)
+![hhh](https://user-images.githubusercontent.com/77485368/127916729-8186eedd-7c11-458a-b7de-8a8b59d8d5b8.gif)
 
 
