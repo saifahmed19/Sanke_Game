@@ -57,7 +57,8 @@ Changed From <b>Turtle</b> Module to <b>Pygame</b> module this Time Which increa
 * Color
 * New Texture
 * New Food-Apple
-* Sound ![image](https://user-images.githubusercontent.com/42868166/134528479-a577a2b2-f0cc-4f95-8135-e4c14c3e8880.png)
+* Grass
+* Sound 
 
 <br>
 
