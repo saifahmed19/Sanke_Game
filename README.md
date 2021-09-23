@@ -4,3 +4,9 @@ A snake game is an arcade maze game which has been developed by Gremlin Indust
 <br>
 <br>
 ![image](https://user-images.githubusercontent.com/42868166/134523589-8bfbd73e-21db-413f-9cf0-8410572aa48c.png)
+<br>
+
+# Objectives
+The snake in the Snake game is controlled using the four direction buttons relative to the direction it is headed in.
+The player’s objective in the game is to achieve maximum points as possible by collecting food or fruits.
+The player loses once the snake hits the wall or hits itself.
